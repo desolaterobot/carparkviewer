@@ -1,0 +1,63 @@
+{
+    "name": "Very Fictional Car Park",
+    "address": "221B Baker St.",
+    "twoHours": 2.00,
+    "subsequentHour": 1.30,
+    "levels": [
+        {
+            "storeyNo": 9,
+            "occupiedSlots": 23,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 8,
+            "occupiedSlots": 45,
+            "totalSlots": 80,
+            "maintenance": true
+        },
+        {
+            "storeyNo": 7,
+            "occupiedSlots": 53,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+
+        {
+            "storeyNo": 6,
+            "occupiedSlots": 77,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 5,
+            "occupiedSlots": 34,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 4,
+            "occupiedSlots": 72,
+            "totalSlots": 80,
+            "maintenance": true
+        },
+        {
+            "storeyNo": 3,
+            "occupiedSlots": 46,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 2,
+            "occupiedSlots": 66,
+            "totalSlots": 80,
+            "maintenance": false
+        },
+        {
+            "storeyNo": 1,
+            "occupiedSlots": 12,
+            "totalSlots": 80,
+            "maintenance": false
+        }
+    ]
+}
